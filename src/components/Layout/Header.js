@@ -4,7 +4,6 @@ import meals from "../../images/meals.jpg";
 import CartButton from "./CartButton";
 
 const Header = (props) => {
-  console.log(props);
   return (
     <React.Fragment>
       <header className={styles.header}>
